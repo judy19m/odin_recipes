@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 228);
+}
+
+.title {
+    color: darkred;
+    background-color: beige;
+    font-size: 35px;
+    text-align: center;
+    border: 2px darkred;
+    border-style: groove;
+    width: 300px;
+    padding:7px;
+    margin: auto;
+    display: block;
+}
+
+h2{
+
+    color: black;
+    background-color: azure;
+    text-align: center;
+    border: 2px;
+    border-style:groove;
+   margin-left: 750px;
+   margin-right: 750px;
+}
